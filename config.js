@@ -48,15 +48,15 @@ global.APIKeys = {
 }
 
 
-global.ownername = 'THE DANIXD'
-global.autorecording = false //status auto merekam ( auto record )
+global.ownername = 'Ananda DEV'
+global.autorecording = true //status auto merekam ( auto record )
 global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 // Other
-global.owner = ['6281251549899','6281251549899','6281251549899']
-global.premium = ['6281251549899']
-global.packname = 'The Jo Bot'
-global.author = 'WhatsApp Bot'
+global.owner = ['6283816797646']
+global.premium = ['6283816797646']
+global.packname = 'Elaina BOTz'
+global.author = 'by Ananda DEV'
 global.wlcm = []
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
@@ -74,7 +74,7 @@ global.mess = {
 }
 global.limitawal = {
     premium: "Infinity",
-    free: 100
+    free: 5
 }
 global.thumb = fs.readFileSync('./lib/jo.jpg')
 global.visoka = { url: 'https://telegra.ph/file/15209657f9d4f59c7ca1e.mp4' }
