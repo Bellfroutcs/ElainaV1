@@ -1,7 +1,7 @@
 {
-  "name": "jo-bot",
+  "name": "Elaina",
   "version": "8.5.4",
-  "description": "WhatsApp Using Lib Baileys Multi Device",
+  "description": "WhatsApp Using Heroku",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
@@ -18,7 +18,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "The Jo Bot.",
+  "author": "Elaina-BOTz",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^4.1.0",
